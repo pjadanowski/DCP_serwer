@@ -1,0 +1,8 @@
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\bin\Debug\UDP_serwer.exe.config
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\bin\Debug\UDP_serwer.exe
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\bin\Debug\UDP_serwer.pdb
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\obj\Debug\UDP_serwer.Form1.resources
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\obj\Debug\UDP_serwer.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\obj\Debug\UDP_serwer.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\obj\Debug\UDP_serwer.exe
+c:\users\student\documents\visual studio 2013\Projects\UDP_serwer\UDP_serwer\obj\Debug\UDP_serwer.pdb
